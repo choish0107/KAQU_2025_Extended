@@ -1,3 +1,0 @@
-[console_scripts]
-destination_publisher = llm_destination.destination_node:main
-

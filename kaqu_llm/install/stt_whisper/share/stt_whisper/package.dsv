@@ -1,6 +1,0 @@
-source;share/stt_whisper/hook/pythonpath.ps1
-source;share/stt_whisper/hook/pythonpath.dsv
-source;share/stt_whisper/hook/pythonpath.sh
-source;share/stt_whisper/hook/ament_prefix_path.ps1
-source;share/stt_whisper/hook/ament_prefix_path.dsv
-source;share/stt_whisper/hook/ament_prefix_path.sh
