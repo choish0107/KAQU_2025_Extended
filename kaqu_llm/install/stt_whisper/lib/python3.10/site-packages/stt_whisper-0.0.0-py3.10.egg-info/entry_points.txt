@@ -1,0 +1,3 @@
+[console_scripts]
+my_stt_whisper = stt_whisper.stt_node:main
+
